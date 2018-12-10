@@ -63,6 +63,11 @@ html {
     padding-left: .75em;
   }
 
+  .card-img {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
 }
 
 @media only screen and (min-width: 38em) {
